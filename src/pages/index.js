@@ -5,10 +5,15 @@ import StyledArtDirectedBackground from "../components/background"
 export default () => (
   <div className="main">
     <StyledArtDirectedBackground>
-        <Link to="/Travels/">Travels</Link>
-        <Link to="/Shop/">Shop</Link>
-        <Link to="/Hire/">Hire</Link>
-        <Link to="/Van/">Van</Link>
+      <div className="navTop">
+        <Link to="/shop/">SHOP </Link>
+        |
+        <Link to="/travels/"> TRAVELS </Link>
+        |
+        <Link to="/hire/"> HIRE </Link>
+        |
+        <Link to="/van/"> VAN</Link>
+      </div>
     </StyledArtDirectedBackground>
   </div>
 )

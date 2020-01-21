@@ -1,3 +1,20 @@
 body {
     margin: 0;
 }
+
+.navTop {
+    float: none;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: grey;
+}
