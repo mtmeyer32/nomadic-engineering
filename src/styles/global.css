@@ -2,12 +2,18 @@ body {
     margin: 0;
 }
 
-.navTop {
+/* .navTop {
     float: none;
     position: absolute;
     top: 10%;
     left: 50%;
     transform: translate(-50%, -50%);
+    font-size: 200%;
+} */
+
+.navTop {
+    margin: 10% auto 0 auto;
+    max-width: 2000px;
     font-size: 200%;
 }
 
