@@ -29,7 +29,9 @@
     "react-typography": "^0.16.19",
     "styled-components": "^5.0.0",
     "typography": "^0.16.19",
-    "typography-theme-alton": "^0.16.19"
+    "typography-theme-alton": "^0.16.19",
+    "typography-theme-doelger": "^0.16.19",
+    "typography-theme-github": "^0.16.19"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
