@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "nomadic-engineering",
   "private": true,
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
@@ -25,8 +25,10 @@
     "gatsby-transformer-sharp": "^2.3.13",
     "intersection-observer": "^0.7.0",
     "react": "^16.12.0",
+    "react-coming-soon": "^1.0.6",
     "react-dom": "^16.12.0",
     "react-typography": "^0.16.19",
+    "react-ui-cards": "^2.0.0",
     "styled-components": "^5.0.0",
     "typography": "^0.16.19",
     "typography-theme-alton": "^0.16.19",
@@ -38,9 +40,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/mtmeyer32/nomadic-engineering"
   }
 }
