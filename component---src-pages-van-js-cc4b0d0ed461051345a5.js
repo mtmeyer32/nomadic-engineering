@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"93ar":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),r=a("2dSa");t.default=function(){return o.a.createElement(r.a,{image:"https://react-coming-soon.maksv.me/default-image.jpeg",bgColor:"#fff",textColor:"#000",illustration:"development"})}}}]);
+//# sourceMappingURL=component---src-pages-van-js-cc4b0d0ed461051345a5.js.map

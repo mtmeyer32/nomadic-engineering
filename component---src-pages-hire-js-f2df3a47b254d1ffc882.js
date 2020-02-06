@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{YoUo:function(e,t,o){"use strict";o.r(t);var n=o("q1tI"),a=o.n(n),i=o("2dSa");t.default=function(){return a.a.createElement(i.a,{image:"https://react-coming-soon.maksv.me/default-image.jpeg",bgColor:"#fff",textColor:"#000",illustration:"development"})}}}]);
+//# sourceMappingURL=component---src-pages-hire-js-f2df3a47b254d1ffc882.js.map
